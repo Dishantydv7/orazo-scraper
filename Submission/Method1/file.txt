@@ -1,0 +1,10 @@
+"Industrial Equipment & Components",
+    "Industrial Supplies",
+    "Instruments & Meters",
+    "Light Industry & Daily Use",
+    "Lights & Lighting",
+    "Machinery & Equipment",
+    "Manufacturing & Processing Machinery",
+    "Metallurgy, Mineral & Energy",
+    "Mobile Electronics",
+    "Office Supplies"
